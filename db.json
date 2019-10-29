@@ -1,0 +1,30 @@
+{
+    "articles": [
+    {
+      title: "MObil terbang",
+      species: "Cat",
+      prev:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed. Lectus urna duis convallis convallis. Quisque egestas diam in arcu cursus. Auctor....",
+      isi:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed. Lectus urna duis convallis convallis. Quisque egestas diam in arcu cursus. Auctor eu augue ut lectus arcu bibendum at. Hendrerit dolor magna eget est lorem ipsum dolor sit. Pharetra sit amet aliquam id diam maecenas. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed.",
+      favFoods: ["wet food", "dry food", "<strong>any</strong> food"],
+      birthYear: 2016,
+      photo: "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+    },
+    {
+      title: "besi terbang",
+      species: "Dog",
+      prev:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed. Lectus urna duis convallis convallis. Quisque egestas diam in arcu cursus. Auctor....",      
+      isi:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed. Lectus urna duis convallis convallis. Quisque egestas diam in arcu cursus. Auctor eu augue ut lectus arcu bibendum at. Hendrerit dolor magna eget est lorem ipsum dolor sit. Pharetra sit amet aliquam id diam maecenas. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed.",
+      birthYear: 2008,
+      photo: "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      title: "barbel melayang",
+      species: "Cat",
+      prev:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed. Lectus urna duis convallis convallis. Quisque egestas diam in arcu cursus. Auctor....",
+      isi:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est placerat in egestas erat imperdiet sed. Lectus urna duis convallis convallis. Quisque egestas diam in arcu cursus. Auctor eu augue ut lectus arcu bibendum at. Hendrerit dolor magna eget est lorem ipsum dolor sit. Pharetra sit amet aliquam id diam maecenas. Sagittis eu volutpat odio facilisis mauris sit amet massa vitae. Potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed.",
+      favFoods: ["tuna", "catnip", "celery"],
+      birthYear: 2012,
+      photo: "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    }
+  ]
+  }
